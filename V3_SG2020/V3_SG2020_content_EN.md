@@ -62,15 +62,15 @@ Card 17 = "Courage"
 
 ### Commitment
 
-Card 18 = "Willing to create realistic goals and stick to them."
+Card 18 = "Willing to create realistic goals and stick to them as a team."
 
 Card 19 = "Be present on the meetings."
 
 ### Focus
 
-Card 20 = "Have a clear role and clear goals within that role."
+Card 20 = "Have a clear accountability within the Scrum Team and clear goals within that accountability."
 
-Card 21 = "Few things at a time."
+Card 21 = "Few things at a time. One Product Goal, one Sprint Goal."
 
 ### Openness
 
