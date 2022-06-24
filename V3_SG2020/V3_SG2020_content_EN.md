@@ -89,3 +89,25 @@ Card 25 = "Individuals are shaped by their background and their experiences. It 
 Card 26 = "To trust the Scrum process to guide the work needed to satisfy the requirements of the product."
 
 Card 27 = "Not to fear to raise impediments on a daily basis."
+
+## Antipatterns
+
+### Commitment
+
+Card 28: "Adding new features to the Sprint Backlog that do not relate to the current goal."
+
+### Focus
+
+Card 29: "Helping other teams (reaulting in own teams goals not met)."
+
+### Openness
+
+Card 30: "Keep relevant knowledge to yourself."
+
+### Respect
+
+Card 31: "Changing the work of your colleague without communication."
+
+### Courage
+
+Card 32: "I have always done it that way."
