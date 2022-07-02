@@ -8,7 +8,7 @@ Here is the list of cards, grouped according the category. For the V3 work in pr
 
 ## Accountabilities (previously roles)
 
-Card 1 = "Scrum Master. Responsible for making sure a Scrum Team lives by the values and practices of Scrum. They are  often considered a coach for the team and their environment,, helping everyone do the best work they possibly can."
+Card 1 = "Scrum Master. Responsible for making sure a Scrum Team lives by the values and practices of Scrum. They are  often considered a coach for the team and their environment, helping everyone do the best work they possibly can."
 
 Card 2 = "Product Owner. Responsible for the product value. Establishes a vision of what they wish to achieve, communicating it to the Scrum Team and stakeholders."
 
@@ -98,7 +98,7 @@ Card 28: "Adding new features to the Sprint Backlog that do not relate to the cu
 
 ### Focus
 
-Card 29: "Helping other teams (reaulting in own teams goals not met)."
+Card 29: "Helping other teams (resulting in own teams goals not met)."
 
 ### Openness
 
