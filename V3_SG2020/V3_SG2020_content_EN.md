@@ -8,9 +8,9 @@ Here is the list of cards, grouped according the category. For the V3 work in pr
 
 ## Accountabilities (previously roles)
 
-Card 1 = "Scrum Master. Accountable for making sure a Scrum Team lives by the values and practices of Scrum. They are  often considered a coach for the team and their environment, helping everyone do the best work they possibly can."
+Card 1 = "Scrum Master. Accountable for continuous improvement through the values and practices of Scrum. They are  often considered a coach for the team and their environment, helping everyone do the best work they possibly can."
 
-Card 2 = "Product Owner. Accountable for the product value. Establishes a vision of what they wish to achieve, communicating it to the Scrum Team and stakeholders."
+Card 2 = "Product Owner. Accountable for maximizing the product value. Establishes a vision of what they wish to achieve, communicating it to the Scrum Team and stakeholders."
 
 Card 3 = "Developers. Accountable for developing a usable product. The Scrum framework states that each team member should contribute in whatever way they can to complete the Sprint Goal of each sprint. "
 
