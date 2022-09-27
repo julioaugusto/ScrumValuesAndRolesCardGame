@@ -12,7 +12,7 @@ Card 1 = "Scrum Master. Accountable for the Scrum Team’s effectiveness and est
 
 Card 2 = "Product Owner. Accountable for maximizing the value of the product resulting from the work of the Scrum Team. Establishes a vision of what they wish to achieve, communicating it to the Scrum Team and stakeholders."
 
-Card 3 = "Developers. Accountable for creating any aspect of a usable Increment each Sprint. The Scrum framework states that each team member should contribute in whatever way they can to complete the Sprint Goal of each sprint. "
+Card 3 = "Developers. Accountable for creating any aspect of a usable Increment each Sprint. Each developer should contribute in whatever way they can to complete the Sprint Goal of each sprint. "
 
 
 
