@@ -86,7 +86,7 @@ Card 25 = "Individuals are shaped by their background and their experiences. It 
 
 ### Courage
 
-Card 26 = "Work on tough problems and challenge assumptions within and without the team."
+Card 26 = "Work on tough problems and challenge assumptions inside and outside the team."
 
 Card 27 = "No fear to raise impediments on a daily basis."
 
