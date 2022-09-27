@@ -64,7 +64,7 @@ Card 17 = "Courage"
 
 Card 18 = "Willing to create realistic goals and stick to them as a team."
 
-Card 19 = "Be present on the meetings."
+Card 19 = "Be present in the meetings."
 
 ### Focus
 
