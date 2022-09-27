@@ -24,7 +24,7 @@ Card 4 = "Work closely with key stakeholders across the organization to communic
 
 Card 5 = "Decision maker regarding what goals and features the product will have."
 
-Card 6 = "Orders the product backlog based on value, effort and other criteria."
+Card 6 = "Orders the Product Backlog based on value, effort and other criteria."
 
 ### Scrum Master
 
