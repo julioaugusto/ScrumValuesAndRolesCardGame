@@ -86,9 +86,9 @@ Card 25 = "Individuals are shaped by their background and their experiences. It 
 
 ### Courage
 
-Card 26 = "To trust the Scrum process to guide the work needed to satisfy the requirements of the product."
+Card 26 = "Work on tough problems and challenge assumptions within and without the team."
 
-Card 27 = "Not to fear to raise impediments on a daily basis."
+Card 27 = "No fear to raise impediments on a daily basis."
 
 ## Antipatterns
 
