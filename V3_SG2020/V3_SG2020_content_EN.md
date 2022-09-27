@@ -82,7 +82,7 @@ Card 23 = "To collaborate across disciplines and skills. Sharing feedback and le
 
 Card 24 = "Collaborative flow is created by each Scrum Team member syncing and thereby creating a development rhythm as the project progresses."
 
-Card 25 = "Individuals are shaped by their background and their experiences. It is important to accept the different people who comprise a team."
+Card 25 = "Individuals are shaped by their background and their experiences. It is important to see the added value of diversity when collaborating as a team."
 
 ### Courage
 
