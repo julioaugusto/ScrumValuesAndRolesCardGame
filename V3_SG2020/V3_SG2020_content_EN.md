@@ -22,7 +22,7 @@ Card 3 = "Developers. Accountable for creating any aspect of a usable Increment 
 
 Card 4 = "Work closely with key stakeholders across the organization to communicate, define and order the product backlog."
 
-Card 5 = "Decision maker regarding what features the product will have."
+Card 5 = "Decision maker regarding what goals and features the product will have."
 
 Card 6 = "Orders the product backlog based on value, effort and other criteria."
 
