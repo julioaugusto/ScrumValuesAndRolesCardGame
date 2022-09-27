@@ -76,7 +76,7 @@ Card 21 = "Few things at a time. One Product Goal, one Sprint Goal."
 
 Card 22 = "Be open about the work, the progress, the learning and the problems."
 
-Card 23 = "To collaborate across disciplines and skills, also sharing feedback and learning from one another."
+Card 23 = "To collaborate across disciplines and skills. Sharing feedback and learning from one another."
 
 ### Respect
 
